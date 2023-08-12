@@ -1,6 +1,6 @@
 # Random Quote Generator React App
 
-![App Screenshot]()
+![App Screenshot](<https://github.com/Shanmugamrskfamily/random-quote-generator/blob/main/src/assets/Screenshot%20(374).png>)
 
 ## Introduction
 
