@@ -1,0 +1,14 @@
+body {
+  font-family: "Georgia", serif;
+  background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg") !important;
+  background-size: 2000 !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+}
+
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#93e332, #dc2b10);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
